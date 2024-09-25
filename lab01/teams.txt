@@ -1,0 +1,28 @@
+Lily McAboy
+CS 262-A
+Professor Vander Linden
+9/6/2024
+
+Exercise 1.1: Team Projects
+
+1. Interesting and Trackable: Calvin Rank: This application would use a database to track
+all available food and drink items in the dining halls, Johnny’s, and Peet’s. Students who
+download the app can rank foods based on taste, nutrient density, and more. For
+example, in my freshman year, there was one instance in which 3 of my friends got food
+poisoning from a specific grilled ham and cheese sandwich. Despite the sandwich’s
+unpopularity, it was back the next week. This application could be useful for campus food
+hubs because evaluating rankings may reduce food waste. Foods that are not popular
+can be phased out or made in lesser quantities. This application may also increase the
+purchase of meal plans. Upperclassmen may be incentivized to buy a meal plan if they
+can reasonably rely on good food without having to risk spending thousands of dollars a
+year on hated unpopular meals.
+
+2. Wacky: The Ideal Candidate: Are you someone who wants to, for lack of a better term,
+lookmaxx? Do you have a job interview lined up but don’t know how to clean up properly?
+Don’t worry, the Ideal Candidate can help you! This application scans your face or body
+and uses AI tools to give you suggestions on outfits, hairstyles, makeup styles, shaving
+advice, and more. Greasy hair and no time to wash it? The Ideal Candidate can help! It
+will tailor its advice based on your specifications and abilities to change. Don’t worry, the
+Ideal Candidate will never suggest plastic surgery or weight loss/gain. The Ideal
+Candidate offers hygienic advice that should be possible to do in an hour or less. Spend
+more time studying your Leetcode and let the Ideal Candidate take care of the rest.
