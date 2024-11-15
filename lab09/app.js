@@ -77,6 +77,10 @@ function createPlayer(req, res, next) {
     });
 }
 
+function readPlayerGame(req, res, next){
+  db.one('SELECT * FROM ')
+}
+
 function deletePlayer(req, res, next) {
   db.oneOrNone('DELETE FROM Player WHERE id=${id} RETURNING id', req.params)
     .then((data) => {
